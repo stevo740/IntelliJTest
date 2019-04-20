@@ -3,6 +3,7 @@ public class GradesDB {
 
 	public int TestMethod()
     {
+
         return 1;
     }
 }
